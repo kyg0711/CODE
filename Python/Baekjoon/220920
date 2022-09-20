@@ -1,0 +1,38 @@
+# 백준 처음부터 해보기
+
+```py
+# 문제 2557
+print("Hello World!")
+```
+
+---
+
+```py
+# 문제 1000
+a, b = input().split()
+print(int(a)+int(b))
+# int를 통해 입력 받은 a와 b를 정수형으로 바꿔서 연산.
+
+a, b = input().split()
+a = int(a)
+b = int(b)
+# 아예 int형으로 선언하고 하는 방법.
+print(a+b)
+```
+
+---
+
+```py
+# 문제 10926번
+a = input("")
+print(a+"??!") # +를 이용하여 ??!을 붙여서 출력.
+```
+
+---
+
+```py
+# 문제 18108번
+a = input()
+a = int(a)
+print(a-543)
+```
